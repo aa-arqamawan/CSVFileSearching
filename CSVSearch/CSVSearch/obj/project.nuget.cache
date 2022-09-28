@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjwBDbHhrSd4rgS+58+DlIBcJlgaelZhJPtok5Z5BJxKnD4B+AO8ofC/iL95xKmh3YJWCf03aIUOZOQHgQlDcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arqam\\OneDrive\\Desktop\\CSVSearch\\CSVSearch\\CSVSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arqam\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512",
+    "C:\\Users\\arqam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
